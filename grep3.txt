@@ -1,0 +1,14 @@
+./grep.txt:node_modules/@protobufjs/fetch/tests/index.js:var fetch = require("..");
+./grep.txt:node_modules/p-retry/readme.md:const fetch = require('node-fetch');
+./grep.txt:node_modules/protobufjs/src/root.js:Root.prototype.fetch = util.fetch;
+./grep.txt:node_modules/node-fetch/README.md:const fetch = (...args) => import('node-fetch').then(({default: fetch}) => fetch(...args));
+./grep.txt:node_modules/node-fetch/README.md:  globalThis.fetch = fetch
+./grep.txt:node_modules/formdata-polyfill/FormData.js:  const _fetch = global.Request && global.fetch
+./grep.txt:node_modules/formdata-polyfill/FormData.js:    global.fetch = function (input, init) {
+./grep2.txt:node_modules/@protobufjs/fetch/tests/index.js:var fetch = require("..");
+./grep2.txt:node_modules/p-retry/readme.md:const fetch = require('node-fetch');
+./grep2.txt:node_modules/protobufjs/src/root.js:Root.prototype.fetch = util.fetch;
+./grep2.txt:node_modules/node-fetch/README.md:const fetch = (...args) => import('node-fetch').then(({default: fetch}) => fetch(...args));
+./grep2.txt:node_modules/node-fetch/README.md:  globalThis.fetch = fetch
+./grep2.txt:node_modules/formdata-polyfill/FormData.js:  const _fetch = global.Request && global.fetch
+./grep2.txt:node_modules/formdata-polyfill/FormData.js:    global.fetch = function (input, init) {
